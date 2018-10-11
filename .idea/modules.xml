@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidPermissionBPChecker/AndroidPermissionBPChecker.iml" filepath="$PROJECT_DIR$/AndroidPermissionBPChecker/AndroidPermissionBPChecker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lite.iml" filepath="$PROJECT_DIR$/Lite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filmhome/filmhome.iml" filepath="$PROJECT_DIR$/filmhome/filmhome.iml" />
     </modules>
   </component>
 </project>
